@@ -1,0 +1,225 @@
+body {
+	background-color: #fff;
+	color: #333;
+	/*font-family: "Microsoft YaHei", Helvetia, "lucida Grande", Verdana, Arial;*/
+	font-size: 14px;
+	line-height: 1.42857;
+}
+
+a:hover,
+a:focus {
+	outline: inherit
+}
+
+.navbar {
+	border: none;
+}
+
+.navbar-collapse {
+	border: none;
+	box-shadow: none;
+}
+
+.navbar-header {
+	position: relative;
+	z-index: 2;
+}
+
+.navbar-default {
+	border-color: inherit;
+}
+
+.navbar-brands {
+	background-color: transparent;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+	border-radius: 0;
+	z-index: 5;
+	padding: 20px 30px;
+}
+
+.navbar-logo {
+	background-image: url("../img/logo.png");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 200px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+
+.marketing {
+	margin-top: 40px;
+	margin-bottom: 30px;
+	padding-top: 20px;
+}
+
+.marketing .col-lg-3 {
+	text-align: center;
+}
+
+.marketing .row .col-lg-3 h2 {
+	font-size: 18px;
+}
+
+.marketing .row .col-lg-3 p {
+	color: #888;
+	font-size: 13px;
+}
+
+.marketing .featurette h2 {
+	padding-bottom: 10px;
+}
+
+.marketing .featurette p {
+	font-size: 18px;
+	line-height: 2em;
+}
+
+.marketing-media {
+	margin-bottom: 100px;
+	margin-top: 80px;
+}
+
+.main-footer .widget {
+	padding: 0 30px;
+}
+
+.widget {
+	margin-bottom: 35px;
+}
+
+.widget .recent-post .recent-single-post {
+	margin-bottom: 14px;
+	padding-bottom: 14px;
+}
+
+.main-footer {
+	background: #424242 none repeat scroll 0 0;
+	color: #959595;
+	padding: 35px 0 0;
+}
+
+.main-footer .widget .recent-post .recent-single-post .post-title {
+	color: #959595;
+}
+
+.main-footer .widget .recent-post .recent-single-post .post-title:hover {
+	color: #e67e22;
+}
+
+.main-footer .widget .recent-post .recent-single-post .date {
+	color: #505050;
+}
+
+.main-footer1 {
+	background: none;
+	border-top: 1px solid #e9ecef;
+}
+
+.content-about {
+	margin-top: 60px;
+}
+
+.content-about div {
+	margin-bottom: 10px;
+}
+
+.container .jumbotron,
+.container-fluid .jumbotron {
+	text-align: justify;
+	border-radius: 3px;
+}
+
+.jumbotron h1 {
+	font-size: 40px;
+}
+
+.jumbotron p {
+	font-size: 16px;
+	line-height: 1.5em;
+	color: #666;
+}
+
+.post-title h1 {
+	color: #949494;
+	font-style: normal;
+}
+
+.carousel {
+	position: relative;
+}
+
+.Clear-margins {
+	padding-left: 0;
+}
+
+.navbar-inverse {
+	background-color: #3f89c8;
+	z-index: 999;
+	border-radius: 3px;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+	background-color: #2570b3;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+	display: block;
+	text-align: center;
+}
+
+.container-fluid-back {
+	background: url("../img/011.jpg") no-repeat center bottom;
+	height: 460px;
+}
+
+.text-header-title h1 {
+	color: #eee;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.text-header-title p {
+	font-size: 18px;
+	line-height: 1.5em;
+	color: #eee;
+}
+
+.text-header-title span {
+	color: #ffcc00;
+	font-size: 19px;
+}
+
+.thumbnail-clear img:hover {
+	opacity: 0.6;
+}
+
+.glyphicon {
+	padding-left: 2px;
+}
+
+.present-list {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 20px;
+	margin-left: 12px;
+}
+
+.present-list li {
+	line-height: 1.8em;
+}
+
+.jumbotron {
+	background-color: #edece4;
+	margin-bottom: 20px;
+}
+
+.table,
+.table thead tr th {
+	text-align: center;
+}
